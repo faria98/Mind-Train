@@ -1,6 +1,7 @@
 # MindTrain
 
 MIND TRAIN: Find Solution by Using Face and Heart-beat
+![Diagram](Diagram/ss1.jpg)
 
 # Abstract
 Face recognition is a new way to see the world. Face recognition is used for security as well. Our main goal is to make a daily life use of this bombing topic. Mood detecting now a day a very important task to do. Why not use an app to make that difficult part so easy! It is very difficult to choose what to do when mood is not in a right place. To clear this confusion this app can work like a magic. Mood set up is very important because bad mood can lead a young person to wrong activities which can be really harmful. This app can be a friendly figure for our daily life. To make this app API will be used to get the facial recognition data set, a heart-beat tracker. To make the mood detection data more accurate color psychology will be used as a user input. After merging these three data, mood detection result will be more accurate. Based on the mood the activities will be suggested.  
