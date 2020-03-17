@@ -1,6 +1,7 @@
 # MindTrain
 
-MIND TRAIN: Find Solution by Using Face and Heart-beat
+<b>MIND TRAIN: Find Solution by Using Face and Heart-beat</b>
+
 ![Diagram](Diagram/ss1.jpg)
 
 # Abstract
